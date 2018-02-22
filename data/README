@@ -1,0 +1,14 @@
+The datasets in this folder are derived from the following ones. If you use them, please cite our work 
+
+"LSTM Networks for Data-Aware Remaining Time Prediction of Business Process Instances", Nicolò Navarin, Beatrice Vincenzi, Mirko Polato and Alessandro Sperduti. In 2017 IEEE Symposium on Deep Learning @ SSCI, to appear.
+
+as well as the original source.
+
+Helpdesk2017:
+Polato, M. (Mirko) (2017) Dataset belonging to the help desk log of an Italian Company. University of Padova. Dataset. https://doi.org/10.4121/uuid:0c60edf1-6f83-4e75-9367-4c63b3e9d5bb
+
+BPI12:
+van Dongen, B.F. (2012) BPI Challenge 2012. Eindhoven University of Technology. Dataset. https://doi.org/10.4121/uuid:3926db30-f712-4394-aebc-75976070e91f
+
+BPI14:
+van Dongen, B.F. (2014) BPI Challenge 2014. Rabobank Nederland. Dataset. https://doi.org/10.4121/uuid:c3e5d162-0cfd-4bb0-bd82-af5268819c35
